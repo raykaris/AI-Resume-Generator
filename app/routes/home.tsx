@@ -19,5 +19,10 @@ export default function Home() {
         <h2>Review your submissions and check AI-powerd feedback.</h2>
       </div>
     </section>
+
+    {/* Generated Resumes */}
+    {[
+      
+    ]}
   </main>
 }
